@@ -15,7 +15,7 @@ function getRandomGreeting() {
     "Made by a goofy man!",
     "Reload the page NOW!",
     "Downloading your passwords...",
-    "Running 3kh0.exe",
+    "Running benscoolgamesv2.exe",
     "WARNING: You may lose braincells if you proceed!",
     "Do you bite your ice cream?",
     "#Relatable",
