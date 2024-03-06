@@ -6,6 +6,7 @@ function getRandomGreeting() {
     "You can read btw",
     "Made you look!",
     "Redbull gives you wings...",
+    "ben is a gay!",
     "Since 2024!",
     "As seen on TV!",
     "doot doot",
